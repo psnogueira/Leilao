@@ -47,5 +47,8 @@
     <ClInclude Include="Usuario.hpp">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
+    <ClInclude Include="catch.hpp">
+      <Filter>tests</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
