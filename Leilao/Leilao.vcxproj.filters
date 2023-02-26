@@ -13,26 +13,38 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="tests">
+      <UniqueIdentifier>{5a9dee25-37c3-4f46-928f-a0d39813618f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="E:\Projetos\cpp\2050-c-plus-plus-testes\Leilao\Lance.cpp">
+    <ClCompile Include="Avaliador.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
-    <ClCompile Include="E:\Projetos\cpp\2050-c-plus-plus-testes\Leilao\Leilao.cpp">
+    <ClCompile Include="Leilao.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
-    <ClCompile Include="E:\Projetos\cpp\2050-c-plus-plus-testes\Leilao\Usuario.cpp">
+    <ClCompile Include="Lance.cpp">
       <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Usuario.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="teste-avaliador.cpp">
+      <Filter>tests</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="E:\Projetos\cpp\2050-c-plus-plus-testes\Leilao\Lance.hpp">
+    <ClInclude Include="Avaliador.hpp">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="E:\Projetos\cpp\2050-c-plus-plus-testes\Leilao\Leilao.hpp">
+    <ClInclude Include="Leilao.hpp">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="E:\Projetos\cpp\2050-c-plus-plus-testes\Leilao\Usuario.hpp">
+    <ClInclude Include="Lance.hpp">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Usuario.hpp">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
   </ItemGroup>
