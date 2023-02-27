@@ -1,4 +1,3 @@
-#define CATCH_CONFIG_MAIN
 #include "catch.hpp"
 #include "Avaliador.hpp"
 
@@ -78,5 +77,4 @@ TEST_CASE("Avaliador")
 		REQUIRE(1500 == maiores3lances[2].recuperaValor());
 	}
 }
-
 
