@@ -1,5 +1,11 @@
 #include "Avaliador.hpp"
 #include <algorithm>
+#include <iostream>
+
+Avaliador::Avaliador()
+{
+	std::cout << "Criando um novo Avaliador" << std::endl;
+}
 
 void Avaliador::avalia(Leilao leilao)
 {
