@@ -1,2 +1,3 @@
 # Leilao
-Alguns Teste de Unidade com Catch2.
+Sistema simples simulando um Leilão. 
+Voltado para o aprendizado de Testes de Unidade com Catch2.
